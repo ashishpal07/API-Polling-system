@@ -9,7 +9,7 @@ Description :
 ***
 
 ## Requirements
-For development, you will only need Node.js and a node global package installed in your environement.
+For development, you will only need Node.js and a node global package installed in your environement and mongodb for database.
 
 ### Node
 * Node Installtion on Windows
