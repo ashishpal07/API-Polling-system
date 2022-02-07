@@ -1,8 +1,7 @@
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://ashish:ashish123@polling-system.64srs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
-// mongoose.connect('mongodb://localhost:27017/api-polling');
+mongoose.connect('mongodb://localhost:27017/api-polling');
 
 const db = mongoose.connection;
 
